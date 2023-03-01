@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1170px;
+    margin: auto;
+}
+ body {
+    background-image:url(https://optimise2.assets-servd.host/steadfast-tern/production/eagles-in-the-uk.jpg?w=1200&h=900&q=80&fm=webp&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1633456213&s=3208f5a248479c7d4c382460f7263048);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    font-weight: bold;
+    opacity: 0px;
+    font-size: x-large;
+    
+
+ }
+ .signup {
+    text-align: center;
+    
+ }
+
+    
+ 
+ h1 {
+    text-align: center;
+    color:white;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    animation-name:inherit;
+    animation-duration: 4s;
+ }
+ .signin {
+  color: orange;
+  text-align: center;
+  
+  
+ 
+  
+      
+ }
+
+ .hello {
+   text-align: center;
+   color: orange;
+ }
+ 
+ .logo {
+   text-align: center;
+   font-weight: bolder;
+   padding: 10px;
+   color: coral;
+ }
+.solid {
+  color: coral;
+   font-weight: bold;
+   font-family:'Times New Roman', Times, serif;
+ 
+}
+
+
+nav  {
+ height: 80px;
+ width: 100%;
+
+}
+ 
+ h1 {
+   color: white;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+nav ul {
+     float: right;
+     margin-right:20px ;
+}
+nav ul li{
+   display: inline-block;
+   line-height: 80px;
+   margin: 0 5px;
+} 
+nav ul li {
+   color: white;
+   font-size: 17px;
+   padding: 7px 13px;
+   border-radius: 3px;
+   text-transform: uppercase;
+}
+  a.active,a:hover {
+   background: #1b9bff;
+   
+   
+  }
+  .active {
+   color: orange;
+  }
+  .checkbtn {
+   font-size: 30px;
+   color: #FFF;
+   float: right;
+   line-height: 80px;
+   margin-right: 40px;
+  }
+  .loved {
+   color: orange;
+  }
+  .lover {
+   color: orange;
+  }
+
+.text {
+   text-align: center;
+   padding: 10px;
+   margin: 10px;
+   color: white;
+   font-weight: 100%;  
+   font-family: 'Times New Roman', Times, serif;
+   border-style: solid;
+   border-color: yellow;
+}
+
+
+.blue {
+   text-align: center;
+   color: orange;
+}
+
+.footer {
+   text-align: center;
+   padding: 20px  0;
+   color: red;
+   font-size: 12px;
+}
+  .foot {
+   text-align: center;
+   padding: 20px  0;
+   color:red;
+   font-size: 12px;
+}
+
+
+nav ul {
+   float: right;
+   margin-right:20px ;
+}
+nav ul li{
+ display: inline-block;
+ line-height: 80px;
+ margin: 0 5px;
+} 
+nav ul li {
+ color: white;
+ font-size: 17px;
+ padding: 7px 13px;
+ border-radius: 3px;
+ text-transform: uppercase;
+}
+nav  {
+   height: 80px;
+   width: 100%;
+}  
+
+
+.about {
+   text-align: center;
+   margin: 10px;
+   border-style: solid;
+   border-color: yellow;
+}
+
+.mission {
+  
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-color: yellow;
+}
+
+.vision {
+  text-align: center;
+   padding: 10px;
+   border-style: solid;
+   border-color: yellow;
+   
+}
+
+.foote {
+   text-align: center;
+   padding: 20px  0;
+   color:red;
+   font-size: 20px;
+}
+
+nav ul {
+   float: right;
+   margin-right:20px ;
+}
+nav ul li{
+ display: inline-block;
+ line-height: 80px;
+ margin: 0 5px;
+} 
+nav ul li {
+ color: white;
+ font-size: 17px;
+ padding: 7px 13px;
+ border-radius: 3px;
+ text-transform: uppercase;
+}
+nav  {
+   height: 80px;
+   width: 100%;
+}  
+.home {
+   color: orange;
+}
+
+.services {
+text-align: center;
+
+}
+
+.offer {
+   text-align:center;
+   padding-bottom: 100px;
+}
+
+.main {
+   text-align: center;
+}
+
+.for {
+   text-align: center;
+   color:red;
+   font-size: 20px;
+}
+
+nav ul {
+   float: right;
+   margin-right:20px ;
+}
+nav ul li{
+ display: inline-block;
+ line-height: 80px;
+ margin: 0 5px;
+} 
+nav ul li {
+ color: white;
+ font-size: 17px;
+ padding: 7px 13px;
+ border-radius: 3px;
+ text-transform: uppercase;
+}
+
+.bed {
+   color: yellow;
+}
+.content {
+   text-align: center;
+   
+}
+.pet {
+   color: red;
+   text-align: center;
+}
